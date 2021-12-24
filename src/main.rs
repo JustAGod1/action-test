@@ -12,6 +12,6 @@ mod tests {
 
     #[test]
     fn it_works() {
-        assert_eq!(2 + 2, plus(a, b));
+        assert_eq!(2 + 2, plus(2, 2));
     }
 }
